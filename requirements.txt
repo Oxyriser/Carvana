@@ -1,0 +1,9 @@
+black==20.8b1
+flake8==3.8.4
+numpy==1.19.5
+pyyaml>=5.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu101
+torchvision==0.8.2+cu101
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.7/index.html
+detectron2
